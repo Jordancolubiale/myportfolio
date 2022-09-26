@@ -4,5 +4,18 @@
 
 nav{
 color: red;
+}
+ 
+.header h1{
+    color: blue;
+}
 
+.header ul{
+
+}
+
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
