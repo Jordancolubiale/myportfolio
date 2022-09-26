@@ -4,10 +4,13 @@
 
 nav{
 color: red;
+margin: 15px;
+padding: 15px;
 }
  
 .header h1{
     color: blue;
+
 }
 
 .header ul{
@@ -18,4 +21,6 @@ color: red;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    background-color: green;
+    flex-direction: row;
 }
