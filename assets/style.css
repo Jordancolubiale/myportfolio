@@ -95,6 +95,7 @@ max-height: 150px;
     height: 400px;
     width: 50%;
     justify-content: center;
+    position: relative;
 }
 .top1 img {width: 200px;
 
@@ -103,7 +104,8 @@ max-height: 150px;
 .bottom4 {
     display: flex;
     height: 200px;
-    width: 200px;
+    width: 100%;
+    position: relative;
 }
 .bottom4 img{
 
